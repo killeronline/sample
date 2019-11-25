@@ -1,2 +1,2 @@
-# sample
-sample data for educational purposes
+# Sample
+Sample Data for HTTP Access
